@@ -20,3 +20,6 @@ h.setdefault("a", []).append(1)   # creates "a":[] then appends 1 → {"a":[1]}
 h.setdefault("a", []).append(2)   # "a" exists, just appends    → {"a":[1,2]}
 
 ```
+## Two_pointer
+Always know when to more pointer- that is the most important
+- [] left, right and loop
